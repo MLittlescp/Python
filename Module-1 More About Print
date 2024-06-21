@@ -1,0 +1,9 @@
+print('Hello')
+print('I\'m studing python') #backslash is the code for the aspostre if you are writting ex. I'm 
+#or you can write it like this 
+print("I'm studying python") #if you don't want to use the backslash you have to use "" double qutations at the beginning and end 
+
+
+print("I'm studying python", "and having fun") # comma is for space ,  and the backward lash n    \n    is to add a line 
+print("I'm studying python\nand having fun") # To go the the next line use /n no space between the n and the next word 
+

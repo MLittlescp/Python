@@ -1,0 +1,20 @@
+# 2+5
+5-4
+3*5
+6/2 # standard division
+# Standard division / Always produce a float number 
+6/2
+7/2
+# Integer division // Always retun the nearest whole number rounded down 
+6//2
+7//2
+# Modulus division % Returns the remainder of the division 
+6%2
+7%2 #The answer is 1 because the 2 fits 3 times in the number 7 and the rest is 1 
+#We can never divide by 0 or we get an error 
+7/0
+7//0
+8%0
+# Power operator 
+2**3 #2*2*2=8
+# Never divide anything by 0 

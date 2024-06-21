@@ -1,0 +1,11 @@
+print('What is your name?')
+user_name = input ()
+print ('Hello,', user_name, 'what is your location')
+
+# input function always returns a string 
+
+
+location_name = input()
+print('Hello,', user_name, 'from', location_name, 'what is your age?')
+age = input()
+print('Hello,', user_name, 'from', location_name, "I'm", age, 'years old')

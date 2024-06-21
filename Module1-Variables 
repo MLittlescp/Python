@@ -1,0 +1,4 @@
+greeting = 'Hello, friend'
+print (greeting) #aftering coding hit command s to save 
+
+#varibale always starts with a _ or letter 

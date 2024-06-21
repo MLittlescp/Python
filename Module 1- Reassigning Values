@@ -1,0 +1,24 @@
+
+
+age = 28
+age = 28 + 6
+print(age)
+
+age = 25
+age += 5
+print(age)
+
+#text = 'hokus', 'pokus'
+#print(text)
+
+# Sting Concatonation
+text = 'hokus' + 'pokus'
+print(text)
+
+print('hokus' * 5)
+
+print(23+88) #interger
+
+print('23' + '88') #Strings concatenated
+Hover over a message to pin it
+keep
